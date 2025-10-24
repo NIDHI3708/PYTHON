@@ -10,4 +10,10 @@ print(type(d))
 print(type(e))
 
 
+x = "5.6"
+y = float(x)
+print(y)
+print(type(y))
+
+
 
