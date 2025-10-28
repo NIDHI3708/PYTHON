@@ -1,0 +1,10 @@
+s = {}
+a = input("Ritika's favourite subject is: ")
+s.update({"Ritika": a})
+b = input("Ankita's favourite subject is: ")
+s.update({"Ankita": b})
+c = input("Sonia's favourite subject is: ")
+s.update({"Sonia": c})
+d = input("Neha's favourite subject is: ")
+s.update({"Neha": d})
+print(s)
