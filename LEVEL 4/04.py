@@ -1,2 +1,2 @@
-list = [1, 7, 9, 3, 9.08]
+list = [1, 7, 9, 3,]
 print(sum(list))

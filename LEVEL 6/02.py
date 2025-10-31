@@ -10,5 +10,5 @@ elif(Percentage >= 33):
 else:
     print("The student has failed the examination, better luck next time.")
 
-print("Total marks obtained:", Total)
+print("Total marks obtained out of 300:", Total)
 print("Percentage obtained:", Percentage)

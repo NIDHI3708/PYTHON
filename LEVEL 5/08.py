@@ -8,3 +8,4 @@ s.update({"Sonia": c})
 d = input("Neha's favourite subject is: ")
 s.update({"Neha": d})
 print(s)
+#nothing changed
