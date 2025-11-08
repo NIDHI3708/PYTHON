@@ -6,5 +6,9 @@ n=3
 '''
 n = int(input("Enter number:"))
 for i in range(1, n + 1):
-    print("*" * (n) , end="")
+    if i == 1 or i == n:
+        print("*" * n)
+    else:
+        print("*" + " " * (n - 2) + "*")
+
     
